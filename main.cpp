@@ -6,9 +6,8 @@
 #include <errno.h>
 #include <assert.h>
 #include <time.h>
-
 #include <stdint.h>
-
+// akjsdf laskf la
 typedef struct{
     //uint16_t channel: 10;
     uint8_t enable_bit: 1;
